@@ -66,7 +66,7 @@
 <hr>
 
 ![Dashboard](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/ipl%20power%20bi%20ss.jpg)
-![Video](https://github.com/user-attachments/assets/53830b24-bad8-4882-aefe-6a1db595377a)
+![Click me to see the video](https://github.com/user-attachments/assets/53830b24-bad8-4882-aefe-6a1db595377a)
 <hr>
 
 
