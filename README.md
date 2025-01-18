@@ -7,7 +7,7 @@
    **The Project uses IPL(2008-2024) Matches Dataset**
        This dataset provides summary-level information about each IPL match.
  ## Columns   
- 1. match_id       : Unique identifier for each match.
+ 1. **match_id**   : Unique identifier for each match.
  2. season         : Year of the IPL season.
  3. date           : The date the match was played.
  4. team1          : Name of the first team.
@@ -19,3 +19,7 @@
 10. result         : Type of result (e.g., win by runs, wickets, or a tie).
 11. player_of_match: Best-performing player in the match.
 12. umpires        : Names of the umpires officiating the match.  
+
+**Use Cases**
+ - Analyzing match outcomes, toss decisions, and team performances.
+ - Studying trends in IPL seasons over the years.
