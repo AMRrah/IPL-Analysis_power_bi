@@ -50,7 +50,7 @@
  - Calculating strike rates, economy rates, and player contributions.
 
 ## This Project uses one more dataset player_image_team_info
-   This dataset provides Player-Role, Player-Style(batting and Bowler),player images.--[Dataset](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/player_image_team_info.csv)
+   This dataset provides Player-Role, Player-Style(batting and Bowler),player images.-[Dataset](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/player_image_team_info.csv)
 
 ### Columns
 1. **player**       : Name of the batsman.
