@@ -61,6 +61,8 @@
 ### Use Cases
  - Analyse the Role and Style of the Player.
  - Displaying the image of the player
+   
+<hr>
 
-![App Screenshot](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/ipl%20power%20bi%20ss.jpg)
+![Dashboard](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/ipl%20power%20bi%20ss.jpg)
 
