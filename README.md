@@ -6,7 +6,7 @@
 
  # Dataset
  ## This Project uses IPL(2008-2024) Matches Dataset
-   This dataset provides summary-level information about each IPL match.[Dataset](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/matches.csv)
+   This dataset provides summary-level information about each IPL match.-[Dataset](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/matches.csv)
  ### Columns   
  1. **match_id**       : Unique identifier for each match.
  2. **season**         : Year of the IPL season.
@@ -26,7 +26,7 @@
  - Studying trends in IPL seasons over the years.
 
 ## This project uses another dataset IPL(2008-2024) Deliveries Dataset
-   This dataset provides ball-by-ball details of each IPL match.
+   This dataset provides ball-by-ball details of each IPL match.-[Dataset](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/deliveries.csv)
 
 ### Columns
  1. **match_id**        : Identifier linking to the matches dataset.
@@ -50,7 +50,7 @@
  - Calculating strike rates, economy rates, and player contributions.
 
 ## This Project uses one more dataset player_image_team_info
-   This dataset provides Player-Role, Player-Style(batting and Bowler),player images.
+   This dataset provides Player-Role, Player-Style(batting and Bowler),player images.--[Dataset](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/player_image_team_info.csv)
 
 ### Columns
 1. **player**       : Name of the batsman.
