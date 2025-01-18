@@ -67,13 +67,17 @@
 
 ![Dashboard](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/ipl%20power%20bi%20ss.jpg)
 <hr>
+
 # System Requirements
+
 ### Hardware:
    - **Processor**: Intel(R) Pentium(R) CPU  N3700  @ 1.60GHz   1.60 GHz
    - **RAM**: 8.00 GB (7.85 GB usable)
    - **Storage**: 120 GB (118 GB usable)
+
 ### Software:
    - **Operating System**:Windows 10 Pro
    - **Tools**:Microsoft Power BI Desktop (latest version).
    - **Additional**: Microsoft Excel for data preparation.
+
 <hr>
