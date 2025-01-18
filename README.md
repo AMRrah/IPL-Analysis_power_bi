@@ -7,7 +7,7 @@
  # Dataset
  ## This Project uses IPL(2008-2024) Matches Dataset
    This dataset provides summary-level information about each IPL match.-[Dataset](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/matches.csv)
- ### Columns   
+ ### Columns:   
  1. **match_id**       : Unique identifier for each match.
  2. **season**         : Year of the IPL season.
  3. **date**           : The date the match was played.
@@ -21,14 +21,14 @@
 11. **player_of_match**: Best-performing player in the match.
 12. **umpires**        : Names of the umpires officiating the match.  
 
-### Use Cases
+### Use Cases:
  - Analyzing match outcomes, toss decisions, and team performances.
  - Studying trends in IPL seasons over the years.
 
 ## This project uses another dataset IPL(2008-2024) Deliveries Dataset
    This dataset provides ball-by-ball details of each IPL match.-[Dataset](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/deliveries.csv)
 
-### Columns
+### Columns:
  1. **match_id**        : Identifier linking to the matches dataset.
  2. **inning**          : The inning number (1 or 2).
  3. **batting_team**    : Name of the batting team.
@@ -44,7 +44,7 @@
 13. **dismissal_kind**  : Type of dismissal, if any (e.g., bowled, caught).
 14. **player_dismissed**: Name of the dismissed player (if any).
 
-### Use Cases
+### Use Cases:
  - Ball-by-ball performance analysis of players and teams.
  - Studying batsman and bowler stats.
  - Calculating strike rates, economy rates, and player contributions.
@@ -52,14 +52,14 @@
 ## This Project uses one more dataset player_image_team_info
    This dataset provides Player-Role, Player-Style(batting and Bowler),player images.-[Dataset](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/player_image_team_info.csv)
 
-### Columns
+### Columns:
 1. **player**       : Name of the batsman.
 2. **role**         : Role of the player(Wicketkeeper Batter, Bowler, Batting Allrounder, Bowler Allrounder,Allrounder). 
 3. **batting_style**: Style of the player(Right Hand,Left Hand)
 4. **Image**        : Image of the player
 5. **team**         : Name of the team
 
-### Use Cases
+### Use Cases:
  - Analyse the Role and Style of the Player.
  - Displaying the image of the player
    
@@ -92,6 +92,6 @@
 
    <hr>
 
-# Conclusion:
+# Conclusion
 
 This project was created as part of a Data Analysis course to **create Dashboard** using **Power Bi** with the help of **Dataset**.
