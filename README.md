@@ -68,7 +68,11 @@
 ![Dashboard](https://github.com/AMRrah/IPL-Analysis_power_bi/blob/main/ipl%20power%20bi%20ss.jpg)
 <hr>
 
+![Image](https://github.com/user-attachments/assets/6363e2f9-309c-4eee-997e-e00a259ec696)
+
 ![Dashboard](https://github.com/user-attachments/assets/53830b24-bad8-4882-aefe-6a1db595377a)
+
+
 
 # System Requirements
 
