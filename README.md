@@ -81,3 +81,10 @@
    - **Additional**: Microsoft Excel for data preparation.
 
 <hr>
+# How to Use
+
+1. Install **Power BI Desktop** if not already available.
+2. Download the **.pbix file** from this repository.
+3. Open the **.pbix file in Power BI Desktop**.
+4. Explore the interactive **dashboards** to **analyze player performance**.
+5. Download the **.csv file** to make your own **dashboard**.
