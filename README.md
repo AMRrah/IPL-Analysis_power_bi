@@ -6,8 +6,8 @@
  # Dataset
    **The Project uses IPL(2008-2024) Matches Dataset**
        This dataset provides summary-level information about each IPL match.
-   **Columns**
-        + **match_id**: Unique identifier for each match.
+   ## **Columns**
+       1.**match_id**: Unique identifier for each match.
        2.**season: Year of the IPL season.
        3.**date: The date the match was played.
        4.**team1: Name of the first team.
